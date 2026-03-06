@@ -4,6 +4,6 @@
 ** Com consultas, views etc.**
 Script-SQL-Desafio-DIO
 
-### 2º Foi Criar um Dashboard no excel
+### 2º Foi Criar um Relatório no excel
 ** Com ETL, Pré-processamento, análises.**
 
