@@ -17,4 +17,4 @@ Script-SQL-Desafio-DIO
 (PENDENTE)
 
 ### 6º Dashboard de Vendas com Power BI utilizando Star Schema
-Criação do schemma start no Power BI
+Criação do schema start no Power BI
